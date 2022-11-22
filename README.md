@@ -39,8 +39,8 @@ We compile the model and fit the train sets and validation sets,We plot the nece
 
 ## PROGRAM
 ```python
-# Developed By:SARAN E
-# Register Number:212219220045
+# Developed By:NITISH KUMAR R
+# Register Number:212219220036
 l.import matplotlib.pyplot as plt
 import pandas as pd
 import numpy as np
